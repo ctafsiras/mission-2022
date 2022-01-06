@@ -1,99 +1,117 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
     font-family: 'Poppins', sans-serif;
-
 }
-.heading-title{
+
+.heading-title {
     border-left: 4px solid blue;
     font-size: 40px;
     border-radius: 3px;
     font-family: Arial;
     padding-left: 8px;
 }
-.link-button{
+
+.link-button {
     text-decoration: none;
     padding: 10px 30px;
     color: white;
-    background-color: #214566;/* #4CAF50;*/
+    background-color: #214566;
+    /* #4CAF50;*/
     border-radius: 5px;
 }
-.link-button:hover{
-    
+
+.link-button:hover {
     font-weight: bold;
 }
-.half-width{
+
+.half-width {
     width: 50%;
     margin-left: 20px;
 }
-.tomato-color{
+
+.tomato-color {
     color: tomato;
 }
-.flexible{
+
+.flexible {
     display: flex;
 }
-.header img{
+
+.header img {
     width: 80%;
     margin-left: 30px;
 }
-section{
+
+section {
     padding: 40px 150px;
 }
-h2{
+
+h2 {
     font-size: 40px;
     text-align: center;
 }
-.plans{
+
+.plans {
     width: 30%;
     border-radius: 30px;
     align-content: left;
     margin: 10px;
     padding: 20px;
-   
 }
-.plans img{
+
+.plans img {
     width: 40%;
 }
-.plans h3{
+
+.plans h3 {
     font-size: 25px;
 }
-.mission{
+
+.mission {
     background-color: rgb(228, 213, 213);
-    
 }
-.vission{
+
+.vission {
     background-color: rgb(255, 175, 175);
-    
 }
-.goal{
+
+.goal {
     background-color: rgb(223, 229, 231);
-    
 }
-.project h2{
+
+.project h2 {
     text-align: left;
 }
-.project img{
+
+.project img {
     width: 35%;
 }
-.limit{
+
+.limit {
     margin-left: 60px;
 }
-.community{
+
+.community {
     margin-right: 60px;
 }
-footer{
+
+footer {
     background-color: black;
     color: white;
     text-align: center;
     height: 120px;
 }
-footer h2{
+
+footer h2 {
     font-family: monospace;
 }
-.corona{
+
+.corona {
     text-align: center;
 }
-.corona img{
+
+.corona img {
     width: 20%;
     border-radius: 50%;
 }
