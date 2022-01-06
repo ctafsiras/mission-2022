@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.heading-title{
+    border-left: 4px solid blue;
+    font-size: 40px;
+    border-radius: 3px;
+    font-family: Arial;
+    padding-left: 8px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    background-color: #214566;/* #4CAF50;*/
+    border-radius: 5px;
+}
+.link-button:hover{
+    
+    font-weight: bold;
+}
+.half-width{
+    width: 50%;
+    margin-left: 20px;
+}
+.tomato-color{
+    color: tomato;
+}
+.flexible{
+    display: flex;
+}
+.header img{
+    width: 80%;
+    margin-left: 30px;
+}
+section{
+    padding: 40px 150px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+.plans{
+    width: 30%;
+    border-radius: 30px;
+    align-content: left;
+    margin: 10px;
+    padding: 20px;
+   
+}
+.plans img{
+    width: 40%;
+}
+.plans h3{
+    font-size: 25px;
+}
+.mission{
+    background-color: gray;
+    
+}
+.vision{
+    background-color: rgb(158, 94, 94);
+    
+}
+.goal{
+    background-color: lightblue;
+    
+}
+.project h2{
+    text-align: left;
+}
+.project img{
+    width: 35%;
+}
+.limit{
+    margin-left: 60px;
+}
+.community{
+    margin-right: 60px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 120px;
+}
+footer h2{
+    font-family: monospace;
+}
+.corona{
+    text-align: center;
+}
+.corona img{
+    width: 20%;
+    border-radius: 50%;
+}
