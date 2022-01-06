@@ -58,15 +58,15 @@ h2{
     font-size: 25px;
 }
 .mission{
-    background-color: gray;
+    background-color: rgb(228, 213, 213);
     
 }
-.vision{
-    background-color: rgb(158, 94, 94);
+.vission{
+    background-color: rgb(255, 175, 175);
     
 }
 .goal{
-    background-color: lightblue;
+    background-color: rgb(223, 229, 231);
     
 }
 .project h2{
